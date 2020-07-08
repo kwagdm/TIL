@@ -10,4 +10,4 @@
 3. 리포의 상태 보기 `$ git status`
 4. stage에 올리기 `$ git add`
 5. snapshot 찍기 `$ git commit`
-6. 로그 보기 `$ git log`
+6. 로그( 사진첩) 보기 `$ git log`
