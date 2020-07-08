@@ -1,3 +1,5 @@
+# git intro
+
 1. 초기화 `$git init`
    1. 실제로는 `.git/` 폴더가 생성됨
    2. 버전관리가 시각됨
@@ -42,9 +44,9 @@
 1. 멀캠에 온다.
 2. `$ git pull`
 3. 열공
-4. 중간중간 `$ git add`, `$ git commit`
+4. 중간중간 `$ git add .`  `$ git commit`
 5. 집 가기 전에 `$ git push`
 6. 집 도착
 7. `$ git pull`
-8. 복습 및 자습
+8. 복습 및 자습(`$ git commit`)
 9. 마지막으로 `$ git push`
