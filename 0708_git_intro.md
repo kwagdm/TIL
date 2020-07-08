@@ -30,7 +30,7 @@
 
 4. `$ git push == $ git push origin master`로 단축 명령하기
 
-   원래는 `$git push -u origin master` 이지만 단축 가능
+   원래는 `$git push -u origin master` 이지만 (`$ git push`)로단축 가능
 
 5. 다른 컴퓨터에서  remote repo **최초**로 받아오기 `$ git clone <URL>`
 6. 이후 remote repo 변경사항을 local repo에서 반영하기 `$ git pull`
