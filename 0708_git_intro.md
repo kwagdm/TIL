@@ -34,3 +34,17 @@
 
 5. 다른 컴퓨터에서  remote repo **최초**로 받아오기 `$ git clone <URL>`
 6. 이후 remote repo 변경사항을 local repo에서 반영하기 `$ git pull`
+
+
+
+# TIL 관리 시나리오
+
+1. 멀캠에 온다.
+2. `$ git pull`
+3. 열공
+4. 중간중간 `$ git add`, `$ git commit`
+5. 집 가기 전에 `$ git push`
+6. 집 도착
+7. `$ git pull`
+8. 복습 및 자습
+9. 마지막으로 `$ git push`
