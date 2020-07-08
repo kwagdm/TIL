@@ -21,7 +21,9 @@
 ### 집 컴퓨터 세팅
 
 1. git 다운로드 및 설치
-2. `$ git  clone <URL>`
+2. windows 키 누르고 git bash 찾아서 실행
+3. `$ git config --global .....`
+4. `$ git clone <URL>`
 
 
 
